@@ -1,0 +1,15 @@
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Students_Grades.exe
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Students_Grades.deps.json
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Students_Grades.runtimeconfig.json
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Students_Grades.dll
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Students_Grades.pdb
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Students_Grades.csproj.AssemblyReference.cache
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Students_Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Students_Grades.AssemblyInfoInputs.cache
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Students_Grades.AssemblyInfo.cs
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Students_Grades.csproj.CoreCompileInputs.cache
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Students_Grades.dll
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Students_Grades.dll
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Students_Grades.pdb
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Students_Grades.genruntimeconfig.cache
+C:\Users\mraaf\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Students_Grades.dll
